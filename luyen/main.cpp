@@ -37,9 +37,6 @@ int main()
                 Min = mid;
             }
         }
-        //cout<<mid<<"\n";
-        //cout<<mid<<" "<<sole<<" "<<sochang;
-        //cout<<tongle<<" "<<tongchang<<"\n\n";
     }
     cout<< Min;
     system("pause");
